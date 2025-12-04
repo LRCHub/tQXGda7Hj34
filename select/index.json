@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ガールズルール",
+  "base_artist": "ドラマストア",
+  "createdAt": "2025-12-04T14:41:44.195675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガールズルール",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_ガールズルール_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガールズルール",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/02_ガールズルール_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ガールズルール - Girls' Rule",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/03_ガールズルール_-_Girls'_Rule_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ガールズルール",
+      "artist": "ドラマストア",
+      "has_synced": true,
+      "path": "select/04_ガールズルール_ドラマストア.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガールズルール",
+      "artist": "ドラマストア",
+      "has_synced": false,
+      "path": "select/pl_01_ガールズルール_ドラマストア.txt"
+    }
+  ]
+}
